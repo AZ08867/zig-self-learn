@@ -12,3 +12,9 @@ pub fn main() void {
 fn deepThought() u8 {
     return 42;
 }
+
+// 语法：
+//     fn foo(n: u8) u8 {
+//         return n + 1;
+//     }
+//
